@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ChatApp</string>
+    <string name="let_s_chat">LET\'S CHAT</string>
+    <string name="login">login</string>
+    <string name="sign_up">Sign up</string>
+    <string name="already_a_user_log_in">Already a user ? LOG IN</string>
+    <string name="create_a_new_account">Create a new account</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
